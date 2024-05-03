@@ -2,7 +2,7 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 from models import Vacancy
-from config import TECHNOLOGIES, regex_pattern
+from config import regex_pattern
 import re
 
 
